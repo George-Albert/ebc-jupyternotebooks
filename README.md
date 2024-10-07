@@ -1,1 +1,1 @@
-# ebc-jupyternotebooks
+# ECCO modeljupyternotebooks
